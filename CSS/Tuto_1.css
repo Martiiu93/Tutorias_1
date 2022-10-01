@@ -1,0 +1,27 @@
+*{
+    margin: 5;
+    padding: 5;
+}
+
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    display:block;
+    margin:20px auto;
+}
+
+h2{
+    font: bold 30px sans-serif;
+    }
+
+    body{
+        text-align: center;
+    }
+
+   
